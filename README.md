@@ -2,7 +2,7 @@
 step 1 npm install <br>
 step 2 open terminal locate the project then cp .env.example .env <br>
 step 3 go to .env change the DB_DATABASE = myblog <br>
-step 4 go to compose.json
+step 4 go to composer.json
 change
 "require": {
     "php": ">=7.3",
