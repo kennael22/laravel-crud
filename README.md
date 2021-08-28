@@ -3,16 +3,14 @@ step 1 npm install <br>
 step 2 open terminal locate the project then cp .env.example .env <br>
 step 3 go to .env change the DB_DATABASE = myblog <br>
 step 4 go to composer.json
-change
-"require": {
-    "php": ">=7.3",
-    .....
-},
+change <br>
+"require": {<br>
+    "php": ">=7.3",<br>
+},<br>
 
-to 
-"require": {
-    "php": "^7.3|^8.0",
-    .....
+to <br>
+"require": {<br>
+    "php": "^7.3|^8.0",<br>
 }, <br>
 step 5 compose install <br>
 step 6 in terminal php artisan key:generate <br>
