@@ -1,5 +1,6 @@
 # laravel-crud
-open terminal then locate the project larave-crud
+php version 8.0 <br>
+open terminal then locate the project larave-crud <br>
 step 1 npm install <br>
 step 2 cp .env.example .env <br>
 step 3 go to .env change the DB_DATABASE = myblog <br>
