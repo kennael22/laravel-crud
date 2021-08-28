@@ -16,6 +16,5 @@ to <br>
 step 5 delete composer.lock file <br>
 step 7 composer install <br>
 step 8 php artisan key:generate <br>
-step 9 php artisan config:clear <br>
-step 10 php artisan config:cache <br>
-step 11 php artisan migrate:fresh --seed
+step 9 if error try php artisan config:clear then php artisan config:cache <br>
+step 10 php artisan migrate:fresh --seed
