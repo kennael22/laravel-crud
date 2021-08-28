@@ -17,3 +17,4 @@ step 7 compose install <br>
 step 8 in terminal php artisan key:generate <br>
 step 9 php artisan config:clear <br>
 step 10 php artisan config:cache <br>
+step 11 php artisan migrate:fresh --seed
